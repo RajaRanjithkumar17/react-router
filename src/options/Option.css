@@ -1,0 +1,11 @@
+.option{
+    width: 100%;
+    height: auto;
+    
+}
+.list{
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(194, 216, 236);
+}
